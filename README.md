@@ -2,11 +2,12 @@
 These are the programing assignments for the course Real Time Bluetooth Networks, UTAustinX: UT.RTBN.12.01x
 
 ## Instructors  
-Professor Jonathan Valvano and Ramesh Yerraballi
+Prof. Jonathan Valvano - Electrical and Computer Engineering, UT Austin
+Prof. Ramesh Yerraballi - Electrical and Computer Engineering, UT Austin
 
 ## Objectives
 
-To build a Fitness Device which works on a RTOS.
+To build a Fitness Device which works on a Real Time Operating System
 To learn File Systems.
 To implement Bluetooth Communication.
 
@@ -16,4 +17,3 @@ TM4C123 Launchpad
 MK-II Booster Pack
 CC2650 LaunchPad
 
-## Resources 

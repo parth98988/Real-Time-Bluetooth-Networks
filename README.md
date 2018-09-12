@@ -8,17 +8,17 @@ Dr. Ramesh Yerraballi - Professor of Instruction, Electrical and Computer Engine
 
 ## Objectives
 
-To build a Fitness Device which works on a Real Time Operating System
+* To build a Fitness Device which works on a Real Time Operating System
 
-To learn File Systems.
+* To learn File Systems.
 
-To implement Bluetooth Communication.
+* To implement Bluetooth Communication.
 
 ## Components  
 
-TM4C123 Launchpad
+* TM4C123 Launchpad
 
-MK-II Booster Pack
+* MK-II Booster Pack
 
-CC2650 LaunchPad
+* CC2650 LaunchPad
 

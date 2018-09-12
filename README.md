@@ -3,7 +3,8 @@ These are the programing assignments for the course Real Time Bluetooth Networks
 
 ## Instructors  
 Prof. Jonathan Valvano - Electrical and Computer Engineering, UT Austin
-Prof. Ramesh Yerraballi - Electrical and Computer Engineering, UT Austin
+
+Dr. Ramesh Yerraballi - Electrical and Computer Engineering, UT Austin
 
 ## Objectives
 
